@@ -54,6 +54,12 @@ Simply place the PNG or JPG images and create a text file that defines the icon'
 
 ![end](assets/index.png)
 
+## License
+
+Non-commercial use only — see the [LICENSE](LICENSE) file.
+
+You may use, modify, and share this mod for free community purposes.
+Selling or using it for profit is not allowed without permission.
 # Authorship & Credits
 
 * <img src="assets/luna_tomato_pfp.png" width="100" style="vertical-align: middle;" alt="Luna Tomato's avatar"></img> **Luna Tomato**
