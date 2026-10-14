@@ -1,6 +1,6 @@
 # IconMap
 
-Custom rocket map icons for [Spaceflight Simulator](https://store.steampowered.com/app/1718870/) (PC).
+Custom rocket map icons for [Spaceflight Simulator](https://store.steampowered.com/app/1718870/) (PC)
 
 Press **G** to cycle icons. Add your own icons with the `Code` and `Texture` folders next to the mod DLL.
 
