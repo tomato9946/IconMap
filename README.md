@@ -1,4 +1,4 @@
-# Icon Map
+# <img src="assets/icon-icon map.png" width="50" style="vertical-align: middle;" alt="icon mod"></img> Icon Map
 
 A code mod for [Spaceflight Simulator](https://store.steampowered.com/app/1718870/) (SFS) that replaces the default triangular rocket icons on the map with custom sprites
 
