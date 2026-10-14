@@ -2,8 +2,6 @@
 
 A code mod for [Spaceflight Simulator](https://store.steampowered.com/app/1718870/) (SFS) that replaces the default triangular rocket icons on the map with custom sprites
 
-**Author:** <img src="assets/luna_tomato_pfp.png" width="100" style="vertical-align: middle;" alt="Luna Tomato's avatar"></img> **Luna Tomato**
-
 ## Screenshots
 
 ![Map overview with custom icons](assets/map.png)
@@ -49,4 +47,5 @@ Mods/IconMap/
   Code/
   Texture/
 ```
+* <img src="assets/luna_tomato_pfp.png" width="100" style="vertical-align: middle;" alt="Luna Tomato's avatar"></img> **Luna Tomato**
   * [GitHub Profile](https://github.com/tomato9946) | [YouTube Channel](https://www.youtube.com/channel/UCv2v5wErevqbt4HJkFUhe2A) | [Spaceflight Simulator Thailand Discord](https://discord.gg/7g6v8Z9k) | [Forums Profile](https://sfsforum.com/index.php?members/rotten-tomato.26818/)
