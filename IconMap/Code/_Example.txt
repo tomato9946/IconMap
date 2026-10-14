@@ -1,0 +1,4 @@
+Texture=MyRocket.png
+Size=1
+# Pivot=0.5,0.5
+# Filter=Bilinear
