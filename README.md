@@ -6,9 +6,9 @@ A code mod for [Spaceflight Simulator](https://store.steampowered.com/app/171887
 
 ## Screenshots
 
-![Map overview with custom icons](assets/screenshot_map.png)
+![Map overview with custom icons](assets/map.png)
 
-![Custom icon on a rocket](assets/screenshot_icon.png)
+![Custom icon on a rocket](assets/type.png)
 
 ![Code and Texture folders](assets/screenshot_folders.png)
 
