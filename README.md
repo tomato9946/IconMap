@@ -20,7 +20,7 @@ Icon Map changes how rockets look on the map. Instead of the same white triangle
 
 Icons stay after staging and separation. If you name the rocket, the chosen icon can be remembered after restarting the game
 
-![Custom icon on a rocket](assets/type.png)
+![type icon](assets/type.png)
 ---
 
 ## 2. How it works & how to use
@@ -48,6 +48,9 @@ Mods/IconMap/
   Texture/
 ```
 Simply place the PNG or JPG images and create a text file that defines the icon's appearance
+
+<img src="assets/code.png" width="1000" style="vertical-align: middle;" alt="code1"></img>
+<img src="assets/text.png" width="1200" style="vertical-align: middle;" alt="code2"></img>
 
 * <img src="assets/luna_tomato_pfp.png" width="100" style="vertical-align: middle;" alt="Luna Tomato's avatar"></img> **Luna Tomato**
   * [GitHub Profile](https://github.com/tomato9946) | [YouTube Channel](https://www.youtube.com/channel/UCv2v5wErevqbt4HJkFUhe2A) | [Spaceflight Simulator Thailand Discord](https://discord.gg/7g6v8Z9k) | [Forums Profile](https://sfsforum.com/index.php?members/rotten-tomato.26818/)
